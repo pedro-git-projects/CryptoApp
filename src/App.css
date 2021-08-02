@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #dbdbdc;
+  background-color: #282a36;
 }
 
 .app {
@@ -10,7 +10,7 @@ body {
 }
 
 .overview {
-  background-color: #fff;
+  background-color: #44475a;
   min-height: 200px;
   width: 50vw;
   margin: auto;
@@ -20,6 +20,11 @@ body {
 
 table {
   width: 100%;
+  color: #f8f8f2;
+}
+
+ h1 {
+  color: #ff79c6;
 }
 
 th {
