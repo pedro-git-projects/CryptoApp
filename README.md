@@ -22,3 +22,7 @@ The aim of the project was to federate two databases: deals and coins.
 
 - CSS
 - ReactJS
+
+## Print
+
+![My Crypto App](public/images/graphqlCrypto.png "Running my application locally")
